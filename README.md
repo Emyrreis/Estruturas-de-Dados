@@ -1,4 +1,5 @@
-🎲Projetos Práticos
+🎲Projetos Práticos:
+
 Durante a disciplina de Estrutura de Dados, desenvolvemos dois projetos práticos aplicados em situações do cotidiano para consolidar o conteúdo que tivemos em sala.
 
 1. Sistema de Almoxarifado
