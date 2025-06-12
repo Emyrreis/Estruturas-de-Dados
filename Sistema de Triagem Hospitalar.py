@@ -24,8 +24,8 @@ class DecisionTree:
         
         #iniciando as perguntas pelas mais urgentes (final da árvore)
         case5 = Node("Está se sentindo muito fraco ou tonto?")
-        case5.left = green  # CORRIGIDO: era 'verde' (não existe)
-        case5.right = blue  # CORRIGIDO: era 'azul' (não existe)
+        case5.left = green #sim = verde
+        case5.right = blue #não = azul
         
         #pergunta sobre febre
         case4 = Node("Tem febre acima de 38°C?")
